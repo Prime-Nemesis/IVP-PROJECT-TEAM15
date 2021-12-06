@@ -1,4 +1,5 @@
 # IVP-PROJECT-TEAM15
 
-This is a project on Implementing Fundament version of Apple's Cinematic Mode using video foveation and object detections.
-It is a part of coursework for "Image and Video Processing" at IIT Hyderabad
+This is the github repository for the research paper 'Light-Weight Cinematic mode using Foveation with Optical flow and Autofocusing'. We aim at implementing the light-weight version of Apple's Cinematic Mode using video foveation, object detection and optical flow.
+
+We did this work as part of the coursework for "Image and Video Processing" taught by Prof. Sumohana Channappayya at IIT Hyderabad.
