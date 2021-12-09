@@ -1,6 +1,12 @@
 This code is referenced from https://in.mathworks.com/matlabcentral/fileexchange/4808-spiht
 
-The files main_extended.m, ... are done by us.
+The files
+* main.extended.m
+* compute_Sf.m
+* compute_Sw.m
+* compute_W.m
+* dwr_extended.m
+are done by us.
 
 
 In Matlab, go to this folder and
